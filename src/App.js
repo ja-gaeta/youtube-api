@@ -4,7 +4,7 @@ import 'materialize-css/dist/css/materialize.min.css';
 
 function App() {
   return (
-    <div className="container">
+    <div className="center">
       <h1>Academia do Vovotoqueiro</h1>
     </div>
   );
