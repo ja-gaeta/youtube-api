@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="center">
       <h1>Academia do Vovotoqueiro</h1>
+      <p>{process.env.REACT_APP_HOST_API_KEY}</p>
     </div>
   );
 }
