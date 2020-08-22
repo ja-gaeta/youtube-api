@@ -7,6 +7,7 @@ Projeto para acesso à API do Youtube com react-query.
 1. Repositório do react-query no GitHub - https://github.com/tannerlinsley/reac...
 2. Site oficial do react-query - https://react-query.tanstack.com/
 3. API do Youtube - https://developers.google.com/youtube/v3
+4. React Query Devtools - https://github.com/tannerlinsley/react-query-devtools
 
 ## Vovotoqueiro on-line:
 

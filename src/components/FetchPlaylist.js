@@ -13,6 +13,7 @@ const FetchPlaylist = () => {
           part: 'snippet',
           playlistId: 'PLZ4xIRSKcCtEvcgAgyqNUaeoeB1GNWyot',
           key: KEY,
+          maxResults: 6,
         },
       }
     );
