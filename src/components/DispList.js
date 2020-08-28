@@ -1,10 +1,10 @@
 import React from 'react';
 
-const DispList = ({ data }) => {
+const DispList = ({ resolvedData }) => {
   return (
     <div>
       <div className="row">
-        {data.items.map((item, i) => (
+        {resolvedData.items.map((item, i) => (
           <div key={i}>
             <div className="col s4">
               <div className="card medium">
